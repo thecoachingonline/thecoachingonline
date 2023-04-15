@@ -4,7 +4,7 @@ Hi 👋 My name is Nanthachai Yuennan
 Prompt Engineering
 ------------------
 
-I’ve been learning Cloud Computing for 3 years
+I’ve been learning Cloud Computing for 4 years
 
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [MyPortfolio](http://thecoachingonline.com)
