@@ -46,7 +46,7 @@ I’ve been learning Cloud Computing for 4 years
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
-[![Credly Badge](https://www.credly.com/badges/16f54dfb-b76d-4330-9b29-59b6452938a9/)](https://www.credly.com/earned/16f54dfb-b76d-4330-9b29-59b6452938a9/public_url)
+[![Credly Badge](https://www.credly.com/badges/16f54dfb-b76d-4330-9b29-59b6452938a9/)](https://www.credly.com/badges/16f54dfb-b76d-4330-9b29-59b6452938a9/public_url)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecoachingonline&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
