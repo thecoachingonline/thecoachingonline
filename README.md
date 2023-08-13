@@ -6,18 +6,6 @@ Prompt Engineering
 
 I’ve been learning Cloud Computing for 4 years
 
-```python
-def calculate_years(start_year, current_year):
-    years = current_year - start_year
-    return years
-
-start_year = 2000
-current_year = 2023
-
-result = calculate_years(start_year, current_year)
-
-print("จำนวนปีระหว่างปีเริ่มต้นและปีปัจจุบันคือ:", result, "ปี")
-
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [MyPortfolio](http://thecoachingonline.com)
 *   🧠  I'm learning Generative Al
