@@ -9,7 +9,7 @@ I’ve been learning Cloud Computing for 4 years
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [MyPortfolio](http://thecoachingonline.com)
 *   🧠  I'm learning Generative Al
-*   🤝  I'm Open to collaborating on LinkedIn
+*   🤝  I'm Open to collaborating on [LinkedIn](https://www.linkedin.com/in/nanthachai-technology-business-healthcare/)
 
 ### Skills 
 <p align="left">
