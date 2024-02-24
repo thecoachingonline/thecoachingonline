@@ -79,5 +79,3 @@ I’ve been learning Cloud Computing for 5 years
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecoachingonline&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thecoachingonline)](https://github.com/anuraghazra/github-readme-stats)
