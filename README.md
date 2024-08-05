@@ -1,7 +1,7 @@
 Hi 👋 My name is Nanthachai Yuennan
 ===================================
 
-Prompt Engineering
+Prompt Engineering and
 Platform Engineering
 ------------------
 
