@@ -2,6 +2,7 @@ Hi 👋 My name is Nanthachai Yuennan
 ===================================
 
 Prompt Engineering
+Platform Engineering
 ------------------
 
 I’ve been learning Cloud Computing for 6 years
