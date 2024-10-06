@@ -1,4 +1,4 @@
-Hi 👋 My name is Nanthachai Yuennan | นันทชัย ยืนนาน
+Hi 👋 My name is Nanthachai Yuennan | 🙏 นันทชัย ยืนนาน
 =================================================
 
 Prompt Engineering and Platform Engineering
