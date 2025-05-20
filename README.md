@@ -1,7 +1,7 @@
 Hi 👋 My name is Nanthachai Yuennan | 🙏 นันทชัย ยืนนาน
 =================================================
 
-Prompt Engineering and Platform Engineering
+Platform Engineering and Quantum computing
 -------------------------------------------
 
 I’ve been learning Cloud Computing for 6 years
